@@ -17,6 +17,4 @@ sudo tail -n 20 /var/log/monitoring.log
 ```
 
 ## Делал на домашнем сервере RaspberryPi5 @blackgring0
-
-vless://a891b535-518b-47a2-871d-070ce4306994@93.100.183.144:50590?type=tcp&encryption=none&security=reality&pbk=U9ZsjDxzC-XruJizW0Ur3R005ANvXmCOz0NuH_PiRhE&fp=firefox&sni=google.com&sid=f4&spx=%2F&flow=xtls-rprx-vision#vless-reality-EffectMob-test
-
+## EffectMobile контора ****оебов и ****расов
