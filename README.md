@@ -17,4 +17,4 @@ sudo tail -n 20 /var/log/monitoring.log
 ```
 
 ## Делал на домашнем сервере RaspberryPi5 @blackgring0
-## EffectiveMobile контора долб*ебов
+
