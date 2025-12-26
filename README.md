@@ -16,5 +16,5 @@ journalctl -u monitor_test.service -n 20
 sudo tail -n 20 /var/log/monitoring.log
 ```
 
-## Делал на домашнем сервере RaspberryPi5 @blackgring0
+## Делал без понятия зачем и кому это может быть нужно вообще.
 
